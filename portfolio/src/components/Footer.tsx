@@ -2,6 +2,7 @@ import React from 'react'
 
 const Footer: React.FC = () => {
   return (
+    <div id="contacts">
     <footer className="bg-light py-4">
       <div className="container">
         <div className="row">
@@ -25,6 +26,7 @@ const Footer: React.FC = () => {
         </div>
       </div>
     </footer>
+    </div>
   )
 }
 

@@ -15,8 +15,8 @@ const Header: React.FC = () => {
                 <Nav className="ml-auto">
 
                     <Nav.Link href="#">Inicio</Nav.Link>
-                    <Nav.Link href="#">Proyectos</Nav.Link>
-                    <Nav.Link href="#">Contacto</Nav.Link>
+                    <Nav.Link href="#projects">Proyectos</Nav.Link>
+                    <Nav.Link href="#contacts">Contacto</Nav.Link>
                 </Nav>
             </Navbar.Collapse>
         </Navbar>
