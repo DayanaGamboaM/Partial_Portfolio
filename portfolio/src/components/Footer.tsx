@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 const Footer: React.FC = () => {
   return (
     <div id="contacts">
@@ -13,13 +14,13 @@ const Footer: React.FC = () => {
             <h5>Redes Sociales</h5>
             <ul className="list-inline mb-0">
               <li className="list-inline-item">
-                <a href="https://www.linkedin.com/in/dayana-monge-637225273/"><i className="bi bi-linkedin"></i></a>
+                <a href="https://www.linkedin.com/in/dayana-monge-637225273/"><i className="bi bi-linkedin redes"></i></a>
               </li>
               <li className="list-inline-item">
-                <a href="https://github.com/DayanaGamboa"><i className="bi bi-github"></i></a>
+                <a href="https://github.com/DayanaGamboa"><i className="bi bi-github redes"></i></a>
               </li>
               <li className="list-inline-item">
-                <a href="https://www.instagram.com/da_monge_/"><i className="bi bi-instagram"></i></a>
+                <a href="https://www.instagram.com/da_monge_/"><i className="bi bi-instagram redes"></i></a>
               </li>
             </ul>
           </div>

@@ -105,3 +105,50 @@ a {
     color-scheme: dark;
   }
 }
+.call{
+  background-color: #A389C5;
+}
+
+.buttonPro{
+  text-decoration: none;
+  color:white;
+  background-color: #4e4150;
+  padding: 8px;
+  text-transform: uppercase;
+  border-radius:10px;
+}
+.buttonCall{
+  text-decoration: none;
+  color:white;
+  font-size: 15px;;
+  background-color: #2E2E37;
+  padding: 10px;
+  text-transform: uppercase;
+  border-radius:30px;
+}
+.buttonLinke{
+  position: absolute;
+  margin-top: -200px;
+  text-decoration: none;
+  color:white;
+  font-size: 15px;;
+  background-color: #A389C5;
+  padding: 10px;
+  text-transform: uppercase;
+  border-radius:30px;
+}
+.nameProjects{
+  border-radius:30px;
+  background-color: #A79BC5A8;
+}
+.redes{
+  color: black;
+}
+.navCol{
+  background-color: #A389C5;
+}
+.icono{
+  position: absolute;
+  margin-top: -200px;
+  margin-left: 210px;
+}
